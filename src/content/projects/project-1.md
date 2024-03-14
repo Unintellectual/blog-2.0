@@ -1,19 +1,22 @@
 ---
-title: 'Project 1'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: "Ted"
+description: "Ted is a simple terminal text editor implemented in C"
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+  url: "/GitHub.webp"
+  alt: "GitHub wallpaper"
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+  url: "/image-1.webp"
+  alt: "first image of your project."
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
-platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+  url: "/image-2.webp"
+  alt: "second image of your project."
+platform: Command line
+stack: C programming language
+website: https://github.com/Unintellectual/ted.git
+github: https://github.com/Unintellectual/ted.git
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+Ted is a simple terminal text editor made in C programming language based on antirez's [kilo](http://antirez.com/news/108). With extra features implemented such as:
+
+- Syntax Highlighting
+- Find

@@ -1,19 +1,19 @@
 ---
-title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: "blog"
+description: "The first itteration of this website"
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+  url: "/GitHub.webp"
+  alt: "GitHub wallpaper"
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+  url: "/image-1.webp"
+  alt: "first image of your project."
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+  url: "/image-2.webp"
+  alt: "second image of your project."
 platform: Web
-stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
-github: https://github.com/ttomczak3/Milky-Way
+stack: Vue, Nuxt, JavaScript, Tailwind-Css
+website: https://noah-victoriano.vercel.app
+github: https://github.com/Unintellectual/blog.git
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+This marks the initial rendition of my personal website, aimed at showcasing my portfolio to visitors. Primarily inclined towards backend development, my expertise lies more in coding than in design aesthetics.
