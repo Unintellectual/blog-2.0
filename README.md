@@ -1,5 +1,3 @@
-# 🌌 Milky-Way
-
 This is my portfolio built using CSS, HTML, JavaScript, and Astro. It serves as showcasing my projects online. The template is open-source and released under the MIT license, meaning you are free to use it in your personal endeavours.
 
 <p align="center">
