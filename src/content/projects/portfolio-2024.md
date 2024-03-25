@@ -1,8 +1,8 @@
 ---
-title: "blog"
+title: "portfolio-2023"
 description: "The first itteration of this website"
 image:
-  url: "/GitHub.webp"
+  url: "/portfolio-2023.png"
   alt: "GitHub wallpaper"
 worksImage1:
   url: "/image-1.webp"

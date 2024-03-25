@@ -257,7 +257,7 @@ footer {
 }
 
 .linked-in {
-    content: url("/li-in-white.png");
+    content: url("/li-in-white.webp");
 }
 
 /* 404 */
@@ -330,7 +330,7 @@ html.light {
 }
 
 .light .linked-in {
-    content: url("/li-in.png");
+    content: url("/li-in.webp");
 }
 
 .light .badge__link {
