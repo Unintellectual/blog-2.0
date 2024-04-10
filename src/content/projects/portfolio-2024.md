@@ -13,7 +13,6 @@ worksImage2:
 platform: Web
 stack: Vue, Nuxt, JavaScript, Tailwind-Css
 website: https://noah-victoriano.vercel.app
-github: https://github.com/Unintellectual/blog.git
 ---
 
 This marks the initial rendition of my personal website, aimed at showcasing my portfolio to visitors. Primarily inclined towards backend development, my expertise lies more in coding than in design aesthetics.
