@@ -2,13 +2,13 @@
 title: "Tabular"
 description: "Tabluation tool made in Go inspired by Tabulate Library in python"
 image:
-  url: "/portfolio-2023.png"
+  url: "/tabular1.png"
   alt: "Tabular Image"
 worksImage1:
-  url: "/image-1.webp"
+  url: "/tabular1.png"
   alt: "Tabular Github"
 worksImage2:
-  url: "/image-2.webp"
+  url: "tabular2.png"
   alt: "Tabular Example"
 platform: Library
 stack:  Go, GoTest
