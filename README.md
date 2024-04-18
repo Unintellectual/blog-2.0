@@ -29,4 +29,4 @@ Contributions to this project are welcome. If you find a bug or have a suggestio
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Mozilla Public License 2. See the `LICENSE` file for details.

@@ -12,7 +12,7 @@ worksImage2:
   alt: "second image of your project."
 platform: Web
 stack: Vue, Nuxt, JavaScript, Tailwind-Css
-website: https://noah-victoriano.vercel.app
+website: noah-victoriano-2023.vercel.app
 ---
 
-This marks the initial rendition of my personal website, aimed at showcasing my portfolio to visitors. Primarily inclined towards backend development, my expertise lies more in coding than in design aesthetics.
+This marks the initial rendition of my personal website, aimed at showcasing my portfolio to visitors. Primarily inclined towards backend development and making tools for other developers to use such as libraries, my expertise lies more in coding than in design aesthetics.
